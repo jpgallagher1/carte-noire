@@ -3,7 +3,7 @@ title: "Data Exploration"
 email: jpgallagher@gmail.com
 description: "A bit of data always piques my curiosity.  After a few questions and some hard work, I love the learning."
 baseurl: "/blog"
-url: "http://jpgallagher.github.io/"
+url: "https://jpgallagher.github.io/"
 title_description: "A dark blog theme for Jekyll focusing on a clear reading experience. Large text and a narrow body makes carte noire a gorgeous read. With excellent code snippet support and integrated tools such as AddThis and Disqus giving your Jekyll blog all the functionality your users expect."
 title_image: "https://secure.gravatar.com/avatar/01b9b2ca300bdd68f4742191682fd05b?s=500&d=mm"
 google_analytics: "UA-20365477-4"
@@ -25,7 +25,7 @@ facebook_link:
 
 # Footer
 footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://jpgallagher1.github.io\">John Gallagher</a>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/jpgallagher1/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
 markdown: kramdown
